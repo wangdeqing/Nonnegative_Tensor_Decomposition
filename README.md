@@ -7,7 +7,9 @@
 **iAPG**: Inexact alternating proximal gradient.  
 **iMU**: Inexact multiplicative update.  
 
+### Contact
+Deqing Wang (http://deqing.me/)
 
-## Reference:
+### Reference:
 Deqing Wang, Zheng Chang and Fengyu Cong. Sparse nonnegative tensor decomposition using proximal algorithm and inexact block coordinate descent scheme, Neural Computing and Applications. 2021. In press. https://doi.org/10.1007/s00521-021-06325-8
 
