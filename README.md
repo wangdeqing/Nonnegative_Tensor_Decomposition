@@ -1,2 +1,2 @@
-# Nonnegative_Tensor_Decomposition
+# Nonnegative Tensor Decomposition
 Nonnegative Tensor Decomposition
