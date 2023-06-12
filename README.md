@@ -11,5 +11,5 @@
 Deqing Wang (https://deqing.net/)
 
 ### Reference:
-Deqing Wang, Zheng Chang and Fengyu Cong. Sparse nonnegative tensor decomposition using proximal algorithm and inexact block coordinate descent scheme, Neural Computing and Applications. Volume 33, Issue 24, 2021. p.17369-17387. In press. https://doi.org/10.1007/s00521-021-06325-8
+Deqing Wang, Zheng Chang and Fengyu Cong. Sparse nonnegative tensor decomposition using proximal algorithm and inexact block coordinate descent scheme, Neural Computing and Applications. Volume 33, Issue 24, 2021. p.17369-17387. https://doi.org/10.1007/s00521-021-06325-8
 
